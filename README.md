@@ -10,4 +10,4 @@ Cara pakai
 To do list :
 - [x] Mengotomatisasi pembuatan folder mata kuliah
 - [x] Mengotomatisasi pembuatan folder pertemuan 1-16
-- [] Mengotomatisasi pembuatan folder mata kuliah dan subfolder pertemuan
+- [ ] Mengotomatisasi pembuatan folder mata kuliah dan subfolder pertemuan
